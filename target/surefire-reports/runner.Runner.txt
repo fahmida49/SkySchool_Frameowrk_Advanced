@@ -1,0 +1,94 @@
+-------------------------------------------------------------------------------
+Test set: runner.Runner
+-------------------------------------------------------------------------------
+Tests run: 18, Failures: 0, Errors: 18, Skipped: 0, Time elapsed: 14.764 s <<< FAILURE! - in runner.Runner
+Customer Contact Number Modification functionality.Verify Customer Contact Number Modification functionality  Time elapsed: 4.729 s  <<< ERROR!
+org.openqa.selenium.WebDriverException: 
+Cannot find firefox binary in PATH. Make sure firefox is installed. OS appears to be: WIN10
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'LAPTOP-F4LG2RB2', ip: '192.168.1.189', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.7'
+Driver info: driver.version: FirefoxDriver
+
+Customer Contact Number Modification functionality.Verify Customer Contact Number Modification functionality  Time elapsed: 4.73 s  <<< ERROR!
+java.lang.NullPointerException
+
+Customer Contact Number Modification functionality.Verify Customer Contact Number Modification functionality  Time elapsed: 1.788 s  <<< ERROR!
+org.openqa.selenium.WebDriverException: 
+Cannot find firefox binary in PATH. Make sure firefox is installed. OS appears to be: WIN10
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'LAPTOP-F4LG2RB2', ip: '192.168.1.189', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.7'
+Driver info: driver.version: FirefoxDriver
+
+Customer Contact Number Modification functionality.Verify Customer Contact Number Modification functionality  Time elapsed: 1.788 s  <<< ERROR!
+java.lang.NullPointerException
+
+Verify Customer Login functionality.Verify Customer Login functionality negative Testing  Time elapsed: 1.585 s  <<< ERROR!
+org.openqa.selenium.WebDriverException: 
+Cannot find firefox binary in PATH. Make sure firefox is installed. OS appears to be: WIN10
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'LAPTOP-F4LG2RB2', ip: '192.168.1.189', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.7'
+Driver info: driver.version: FirefoxDriver
+
+Verify Customer Login functionality.Verify Customer Login functionality negative Testing  Time elapsed: 1.585 s  <<< ERROR!
+java.lang.NullPointerException
+
+Verify Customer Login functionality.Verify Customer Login functionality negative Testing  Time elapsed: 0.821 s  <<< ERROR!
+org.openqa.selenium.WebDriverException: 
+Cannot find firefox binary in PATH. Make sure firefox is installed. OS appears to be: WIN10
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'LAPTOP-F4LG2RB2', ip: '192.168.1.189', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.7'
+Driver info: driver.version: FirefoxDriver
+
+Verify Customer Login functionality.Verify Customer Login functionality negative Testing  Time elapsed: 0.821 s  <<< ERROR!
+java.lang.NullPointerException
+
+Verify Customer Login functionality.Verify Customer Login functionality negative Testing  Time elapsed: 0.746 s  <<< ERROR!
+org.openqa.selenium.WebDriverException: 
+Cannot find firefox binary in PATH. Make sure firefox is installed. OS appears to be: WIN10
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'LAPTOP-F4LG2RB2', ip: '192.168.1.189', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.7'
+Driver info: driver.version: FirefoxDriver
+
+Verify Customer Login functionality.Verify Customer Login functionality negative Testing  Time elapsed: 0.746 s  <<< ERROR!
+java.lang.NullPointerException
+
+Verify Customer Login functionality.Verify Customer Login functionality negative Testing  Time elapsed: 0.767 s  <<< ERROR!
+org.openqa.selenium.WebDriverException: 
+Cannot find firefox binary in PATH. Make sure firefox is installed. OS appears to be: WIN10
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'LAPTOP-F4LG2RB2', ip: '192.168.1.189', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.7'
+Driver info: driver.version: FirefoxDriver
+
+Verify Customer Login functionality.Verify Customer Login functionality negative Testing  Time elapsed: 0.767 s  <<< ERROR!
+java.lang.NullPointerException
+
+Verify Customer Login functionality.Verify Customer Login functionality negative Testing  Time elapsed: 0.575 s  <<< ERROR!
+org.openqa.selenium.WebDriverException: 
+Cannot find firefox binary in PATH. Make sure firefox is installed. OS appears to be: WIN10
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'LAPTOP-F4LG2RB2', ip: '192.168.1.189', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.7'
+Driver info: driver.version: FirefoxDriver
+
+Verify Customer Login functionality.Verify Customer Login functionality negative Testing  Time elapsed: 0.575 s  <<< ERROR!
+java.lang.NullPointerException
+
+Verify Customer Login functionality.Verify Customer Login functionality negative Testing  Time elapsed: 0.701 s  <<< ERROR!
+org.openqa.selenium.WebDriverException: 
+Cannot find firefox binary in PATH. Make sure firefox is installed. OS appears to be: WIN10
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'LAPTOP-F4LG2RB2', ip: '192.168.1.189', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.7'
+Driver info: driver.version: FirefoxDriver
+
+Verify Customer Login functionality.Verify Customer Login functionality negative Testing  Time elapsed: 0.701 s  <<< ERROR!
+java.lang.NullPointerException
+
+Verify Customer Login functionality.Verify Customer Login functionality happy path  Time elapsed: 0.701 s  <<< ERROR!
+org.openqa.selenium.WebDriverException: 
+Cannot find firefox binary in PATH. Make sure firefox is installed. OS appears to be: WIN10
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'LAPTOP-F4LG2RB2', ip: '192.168.1.189', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.7'
+Driver info: driver.version: FirefoxDriver
+
+Verify Customer Login functionality.Verify Customer Login functionality happy path  Time elapsed: 0.702 s  <<< ERROR!
+java.lang.NullPointerException
+
